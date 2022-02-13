@@ -27,6 +27,12 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^1.0.0
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "asset/dota-icon.jpg"
 
 
 # The following section is specific to Flutter.
